@@ -5,7 +5,9 @@
 I build scalable web applications using modern JavaScript technologies.
 Passionate about clean architecture, APIs, and performance optimization.
 </p>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hellocoders_rounded.gif"/>
+</p>
 ---
 
 ## 🚀 About Me
