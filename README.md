@@ -48,39 +48,29 @@ Passionate about clean architecture, APIs, and performance optimization.
 
 ---
 
-## 📌 Featured Projects
-
-### 📝 Full Stack Todo App
-- Secure Authentication
-- Pagination & Filtering
-- Clean Architecture (Services Layer)
-- Deployed API
-
-### 🛒 E-Commerce API (In Progress)
-- Product Management
-- Admin Roles
-- Order System
-- Payment Integration (Planned)
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramadan-dev&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadan-dev&layout=compact&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ramadan-dev&theme=radical" />
+</p>
+
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (ضع لينكك هنا)
-- 📧 Email: (ايميلك)
-- 🌍 Portfolio: (لو عندك)
+- 💼 LinkedIn: ( www.linkedin.com/in/ramadan-mohamed-dev )
+- 📧 Email: (ramadan88mohamed00@gmail.com)
+- 🌍 Portfolio: ( https://portofolio-drab-tau.vercel.app/ )
 
 ---
 
