@@ -2,72 +2,85 @@
 <h3 align="center">Full Stack Developer | React ⚛️ | Node.js 🚀 | Express 🔥</h3>
 
 <p align="center">
-I build scalable web applications using modern JavaScript technologies.
-Passionate about clean architecture, APIs, and performance optimization.
+I build scalable and production-ready web applications using modern JavaScript technologies.
+Focused on clean architecture, scalable APIs, and performance optimization.
 </p>
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="400"/>
 </p>
+
+---
 
 ## 🚀 About Me
 
 - 💻 Full Stack Developer (React / Node.js / Express)
-- 🔐 Experienced in Authentication & JWT Systems
-- 🗄️ Working with MongoDB & REST APIs
-- 🎨 Strong in UI Styling (CSS, Tailwind, Styled Components)
-- 📦 Building real-world production-ready projects
+- 🔐 Strong experience in Authentication & JWT Systems
+- 🗄️ Building REST APIs with clean architecture
+- 🎨 Advanced UI Styling (Tailwind, SCSS, Styled Components)
+- 📦 Real-world production backend systems
 - 🌱 Currently improving: System Design & Advanced TypeScript
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Frontend
-- React.js
-- JavaScript (ES6+)
-- TypeScript
-- Tailwind CSS
-- CSS / SCSS
-- Axios
-- Redux Toolkit
+## 👨‍💻 Frontend
 
-### ⚙️ Backend
-- Node.js
-- Express.js
-- RESTful APIs
-- JWT Authentication
-- Role-based Authorization
-- Mongoose
-- MongoDB
-
-### 🧰 Tools & DevOps
-- Git & GitHub
-- Postman
-- Swagger
-- Railway / Vercel Deployment
-- Docker (Basic)
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ramadan-dev&theme=radical" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,sass,figma" />
 </p>
 
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,postgres,prisma,firebase" />
+</p>
+
+## 🧰 Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,railway,linux,vscode" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-- 💼 LinkedIn: ( www.linkedin.com/in/ramadan-mohamed-dev )
-- 📧 Email: (ramadan88mohamed00@gmail.com)
-- 🌍 Portfolio: ( https://portofolio-drab-tau.vercel.app/ )
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramadan-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramadan-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadan-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 💡 Philosophy
+# 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ramadan-mohamed-dev">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+<a href="mailto:ramadan88mohamed00@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+</a>
+
+<a href="https://portofolio-drab-tau.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" width="40"/>
+</a>
+</p>
+
+---
+
+# 💡 Philosophy
 
 > "Clean code always wins. Structure first, features second."
 
+> Backend structure is not optional — it's mandatory.
