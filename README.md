@@ -52,14 +52,6 @@ Passionate about clean architecture, APIs, and performance optimization.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramadan-dev&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadan-dev&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ramadan-dev&theme=radical" />
 </p>
 
